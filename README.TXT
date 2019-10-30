@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Space Shooter
+PURPOSE OF PROJECT: Helped me learn about objet oriented programming
+VERSION or DATE: Fall 2018
+HOW TO START THIS PROJECT: Make sure you have Greenfoot installed and open up the project
+AUTHORS: Daniel Huynh
+USER INSTRUCTIONS: Contact me @ ddanielhhuynh@gmail.com if you have any questions
