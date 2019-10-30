@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=clss
+comment0.target=boolean\ canSee(java.lang.Class)
+comment1.params=clss
+comment1.target=void\ eat(java.lang.Class)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
